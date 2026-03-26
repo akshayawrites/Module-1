@@ -32,4 +32,4 @@ print(string_double_quotes)
 <img width="807" height="299" alt="image" src="https://github.com/user-attachments/assets/76f2d8f4-1428-44d2-a287-e82b2bdd875b" />
 
 ## RESULT
-
+The program successfully printed the string in multiple lines using triple quotes.
