@@ -28,3 +28,4 @@ print(num3)
 <img width="239" height="171" alt="image" src="https://github.com/user-attachments/assets/34db603b-c4f8-4c78-a625-e1d75f8d095b" />
 
 ## RESULT
+The program successfully printed the integer literals.
