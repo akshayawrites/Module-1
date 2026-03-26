@@ -25,7 +25,7 @@ print(num3)
 
 ```
 ## OUTPUT
-<img width="239" height="171" alt="image" src="https://github.com/user-attachments/assets/34db603b-c4f8-4c78-a625-e1d75f8d095b" />
+<img width="292" height="152" alt="image" src="https://github.com/user-attachments/assets/f013d6db-f8b9-439b-8de3-2f2b890237ca" />
 
 ## RESULT
 The program successfully printed the integer literals.
